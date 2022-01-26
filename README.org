@@ -2,9 +2,9 @@
 #+HTML_HEAD_EXTRA: <style>span[class^="section-number-"]:after { content: '.'; }</style>
 
 * Overview
-This is the primary course website for CSE215: Foundations of Computer Science (Spring 2022), offered by the Department of Linguistics at State University of New York (SUNY), Korea.  
+This is the primary course website for CSE215: Foundations of Computer Science (Spring 2022), offered by the CS Department of SUNY Korea.  
 
-This repository is publicly accessible and hosts the courseware that will be added incrementally along the semester.  
+This repository is publicly accessible and hosts the courseware that will be added incrementally along the semester.  The courseware is adapted from the ones used in Stony Brook University.
 
 * Prerequisites
 AMS 151 or MAT 125 or MAT 131
