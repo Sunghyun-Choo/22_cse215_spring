@@ -1,0 +1,38 @@
+#+TITLE: CSE215: Foundations of Computer Science 
+#+SUBTITLE: Course syllabus for Spring 2022 
+#+HTML_HEAD_EXTRA: <style>span[class^="section-number-"]:after { content: '.'; }</style>
+
+* Prerequisites
+AMS 151 or MAT 125 or MAT 131
+* Instructor 
+Zhoulai Fu (zhoulai.fu@sunykorea.ac.kr, www.zhoulaifu.com)
+* Schedule
+TBA
+
+* Course Description
+In this course, we will learn the part of mathematics, also know as discrete math,  which is required in well understanding computer science. The course  covers the following topics: 
+logic (propositional logic and predicate logic), number theory, proof
+techniques, sequences, recursion, functions, relations, and sets.
+
+* Course objectives
+The students should gain the following knowledge and skills:
+- An ability to check if a mathematical argument is valid (i.e., logical) and sound (i.e., truthful)
+- AXn ability to verify the correctness of proofs of some existing theorems and prove some new theorems
+- An ability to use the mathematical concepts of sequences, functions, relations, and sets in solving computing problems
+
+* Textbook
+Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1st Edition
+
+
+* Grading
+- Assignments: 30% 
+- Midterms: 40%
+- Final exam: 30%
+
+* Policy on lateness
+Late assignments will generally not be accepted. Exceptional requests must be presented to the course instructor with supporting documentation as soon as possible.
+* Policy on collaboration 
+You are expected to work on each problem on your own. You may use the textbooks, notes, lectures, instructors and classmates to help you find general strategies to solve the problems. You may discuss the strategies to solve these problems with your fellow students, but you should present the solution in your own way. Using other people's work or solutions,  cited or not, is considered plagiarism and carries severe academic penalties. 
+
+* Students with disability
+If you have a physical, psychological, medical or learning disability that affect your course work, please let the instructor know. Reasonable accommodation will be provided if necessary and appropriate. All information and documentation are confidential.
