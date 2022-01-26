@@ -1,5 +1,5 @@
 #+TITLE: CSE215: Foundations of Computer Science 
-#+SUBTITLE: Course syllabus for Spring 2022 
+#+TITLE:  Course syllabus for Spring 2022 
 #+HTML_HEAD_EXTRA: <style>span[class^="section-number-"]:after { content: '.'; }</style>
 
 * Prerequisites
