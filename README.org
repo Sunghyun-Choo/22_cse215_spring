@@ -19,7 +19,7 @@ techniques, sequences, recursion, functions, relations, and sets.
 * Course objectives
 The students should gain the following knowledge and skills:
 - An ability to check if a mathematical argument is valid (i.e., logical) and sound (i.e., truthful)
-- AXn ability to verify the correctness of proofs of some existing theorems and prove some new theorems
+- An ability to verify the correctness of proofs of some existing theorems and prove some new theorems
 - An ability to use the mathematical concepts of sequences, functions, relations, and sets in solving computing problems
 
 * Textbook
@@ -28,8 +28,8 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 * Grading
 - Assignments: 30% 
-- Midterms: 40%
-- Final exam: 30%
+- Midterms: 20%
+- Final exam: 50%
 
 * Policy on lateness
 Late assignments will generally not be accepted. Exceptional requests must be presented to the course instructor with supporting documentation as soon as possible.
