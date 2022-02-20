@@ -1,7 +1,9 @@
-#+TITLE: Syllabus for CSE215: Foundations of Computer Science (Spring 2022)
+#+TITLE:  CSE215: Foundations of Computer Science (State University of New York, Korea, Spring 2022)
 #+HTML_HEAD_EXTRA: <style>span[class^="section-number-"]:after { content: '.'; }</style>
 
-* Overview
+
+
+* Course vverview
 This course is  offered by the CS Department of SUNY Korea. In this course, we will learn the part of mathematics, also know as discrete math,  which is required in well understanding computer science. The course  covers the following topics:  logic (propositional logic and predicate logic), number theory, proof techniques, sequences, recursion, functions, relations, and sets.
 
 This repository is publicly accessible and hosts  courseware that will be incrementally added along the semester.  We will adapt the courseware from the ones used at Stony Brook University.
@@ -33,7 +35,7 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 
    
 |------+----------------+--------------------------------------------+----------|
-| Week |           Date | Tentative schedule                         | Reading  |
+| Week |           Date | Tentative schedule for each class          | Reading  |
 |------+----------------+--------------------------------------------+----------|
 |   01 |          02-21 | Overview of the course                     |          |
 |      |          02-22 | Recitation: Look and feel of a final exam  |          |
@@ -111,22 +113,23 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 - Midterms: 20%
 - Final exam: 50%
 
-In this course, we have seven homeworks, two midterms and one final exam. So, your numeral score equals to (HW1 + ...  + HW7  ) / 7 * 30% + (Midterm1 + Midterm2) / 2 * 20% + Final * 50%. Grade cutoffs are as follows. Grade cutoffs might be adjusted at the end of the semester if curving is required.
+In this course, we have seven homeworks, two midterms and one final exam. So:
+
+- Your numeral score equals to (HW1 + ...  + HW7  ) / 7 * 30% + (Midterm1 + Midterm2) / 2 * 20% + Final * 50%.
+
+- Grade cutoffs are as follows. 
 A [93-100], A- [90-93), B+ [87-90), B [83-87), B- [80-83), C+ [77-80), C [73-77), C- [70-73), D+ [67-70), D [63-67), F [0-63).
+
+- Final grades might be adjusted at the end of the semester if curving is required.
 
 * Instructor 
 Zhoulai Fu <zhoulai dot fu at stonybrook.edu>  
 
 
 * Teaching assistant
-
-
 Minki Jeon <minki dot jeon at stonybrook.edu>  
 
 
-  
-* Policy on lateness
-Late assignments will generally not be accepted. Exceptional requests must be presented to the course instructor with supporting documentation as soon as possible.
 
 * Disabilities Act
 
