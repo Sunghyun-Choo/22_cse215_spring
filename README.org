@@ -3,7 +3,7 @@
 
 
 
-* Course vverview
+* Course overview
 This course is  offered by the CS Department of SUNY Korea. In this course, we will learn the part of mathematics, also know as discrete math,  which is required in well understanding computer science. The course  covers the following topics:  logic (propositional logic and predicate logic), number theory, proof techniques, sequences, recursion, functions, relations, and sets.
 
 This repository is publicly accessible and hosts  courseware that will be incrementally added along the semester.  We will adapt the courseware from the ones used at Stony Brook University.
@@ -23,7 +23,7 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 
 
-* Schedule (tentative)
+* Schedule 
 
 Lectures: Monday and Wednesday 3h30pm - 4h50pm, at C107
 
