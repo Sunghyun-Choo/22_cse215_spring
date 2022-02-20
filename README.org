@@ -117,8 +117,7 @@ In this course, we have seven homeworks, two midterms and one final exam. So:
 
 - Your numeral score equals to (HW1 + ...  + HW7  ) / 7 * 30% + (Midterm1 + Midterm2) / 2 * 20% + Final * 50%.
 
-- Grade cutoffs are as follows. 
-A [93-100], A- [90-93), B+ [87-90), B [83-87), B- [80-83), C+ [77-80), C [73-77), C- [70-73), D+ [67-70), D [63-67), F [0-63).
+- Grade cutoffs are as follows. A [93-100], A- [90-93), B+ [87-90), B [83-87), B- [80-83), C+ [77-80), C [73-77), C- [70-73), D+ [67-70), D [63-67), F [0-63).
 
 - Final grades might be adjusted at the end of the semester if curving is required.
 
