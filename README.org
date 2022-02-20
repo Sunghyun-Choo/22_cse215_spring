@@ -113,7 +113,7 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 - Midterms: 20%
 - Final exam: 50%
 
-In this course, we have seven homeworks, two midterms and one final exam. So:
+In this course, we have seven homeworks, two midterms and one final exam. Thus, 
 
 - Your numeral score equals to (HW1 + ...  + HW7  ) / 7 * 30% + (Midterm1 + Midterm2) / 2 * 20% + Final * 50%.
 
@@ -130,15 +130,15 @@ Minki Jeon <minki dot jeon at stonybrook.edu>
 
 
 
-* Disabilities Act
+* Disabilities act
 
 If you have a physical, psychological, medical or learning disability that may impact your course work, please contact the Department of Student Affairs, Campus Building A, Room 207, (032) 626-1190. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
 
-* Academic Integrity
+* Academic integrity
 
 Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing another person's work as your own is always wrong. Faculty members are required to report any suspected instances of academic dishonesty to the Academic Judiciary Committee or the Department of Academic Affairs, Campus Building A, Room 201, (032) 626-1121.
 
-* Critical Incident Management
+* Critical incident management
 
 SUNY Korea expects students to respect the rights,
 privileges, and property of other people. Faculty are required to report to the Department of Academic Affairs any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.
