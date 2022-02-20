@@ -14,8 +14,6 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 
 
-* Course sescription
-
 * Course objectives
 The students should gain the following knowledge and skills:
 - An ability to check if a mathematical argument is valid (i.e., logical) and sound (i.e., truthful)
