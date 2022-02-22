@@ -1,0 +1,149 @@
+* What
+  Partial answers for lecture 2 (recitation in week1). The part we did together on class is provided here.   
+
+* Collected exercises
+
+  
+   | book chapter | Topics              | Exam problems      | Key                      |
+   |--------------+---------------------+--------------------+--------------------------|
+   |            2 | Propositional logic | 2021-final, pb 1   | truth table              |
+   |            3 | Predicate logic     | 2021-midterm1, pb3 | negation on quantifiers  |
+   |            4 | Proof               | 2021-final, pb4    | facts about integers     |
+   |            5 | Sequences           | 2021-final, pb7    | math induction           |
+   |            6 | Sets                | 2021-midterm2, pb2 | unions and intersections |
+   |            7 | Functions           | 2021-final, pb9    | 1-1 and onto             |
+   |            8 | Relations           | 2021-final, pb11   | equiv. rel. and classes  |
+   |              |                     |                    |                          |
+
+* Ch2. Propositional Logic
+
+Q: Construct a truth table for the following statement:
+
+- p AND (q OR r) <==> p AND (q AND r)
+
+
+A:
+|---+---+---+----------------+-----------------+-------------------------------------|
+| p | q | r | p AND (q OR r) | p AND (q AND r) | p AND (q OR r) <==> p AND (q AND r) |
+|---+---+---+----------------+-----------------+-------------------------------------|
+| T | T | T | T              | T               | T                                   |
+| T | T | F | T              | T               | T                                   |
+| T | F | F | F              | F               | T                                   |
+| T | F | T |                |                 |                                     |
+| F |   |   |                |                 |                                     |
+| F |   |   |                |                 |                                     |
+| F |   |   |                |                 |                                     |
+| F |   |   |                |                 |                                     |
+
+* Ch3. Predicate Logic
+
+Q: Give negation of this statement:
+
+for any x, for any y such that p(x, y)
+
+A:
+there exists x, and there exists y such that ~p(x,y)
+
+
+
+
+* Ch4. Proof
+
+Q: Prove that the sum of any consecutive odd intergers is even
+
+A:
+We only need to show; for any integer n, 2*n+1 + (2*n+3) is even.
+
+That is to say, we need to show the following proposition holds:
+
+   for any integer n, 4* n + 4  is even. (*)
+
+Since 4*n is even, 4 is even, and to sum up two even number returns an even number, we know (*) holds.
+
+* Ch5. Sequences
+
+Q: Use Mathematical induction to prove the following:
+
+  \sum_{i=1}^n i (i!) = (n+1)! - 1
+
+A:
+  
+Let P (n) be the predicate   \sum_{i=1}^n i (i!) = (n+1)! - 1
+
+We first show P(0)  is true
+
+Then, we show if P(N+1) is true, under the condition of P(N) is true
+
+P(N): \sum_{i=1}^N i (i!) = (N+1)! - 1   
+
+P(N+1):  \sum_{i=1}^{N+1} i (i!) = (N+2)! - 1 
+
+Now we are to prove P(N+1) under the conditioin of P(N)
+
+  Left hand side of P(N+1)
+  
+= \sum_{i=1}^{N+1} i (i!)
+
+= \sum_{i=1}^{N} i (i!) + (N+1) (N+1)!   // by def.
+
+= (N+1)! - 1 + (N+1) (N+1)!              // by P(N)
+
+= (N+2) (N+1)! - 1                       // by algebraic op
+
+= (N+2)! - 1                             // by definition of factorial
+
+
+  
+* Ch6. Sets
+
+Q:  Tell whether this is true
+
+  (A Intersect B) Insersect (A Intersect C) = A Intersect (B Union C)
+
+A : wrong
+
+  (A Intersect B) Insersect (A Intersect C)
+  
+ = ((A Intersect B) Insersect A) Intersect C    //associative law
+ 
+ =  (A Intersect B) Intersect C                 // A Intersect B is a subset of A
+
+ =  A Intersect (B Intersect C)                 // associative law
+ 
+  
+* Ch7. Functions
+
+Q: Tell if the following function is (1) a one-to-one map, and (2) if it is an onto map.
+
+f(x) = 3 * x, where x is defined over integers
+
+A: It is one-to-one map. It is not onto map. The map looks like this
+
+0 --> 0
+
+1 --> 3
+
+2 --> 6
+
+
+* Ch8. Relations
+
+Q. Let A be the set of all people. Let R be the relation defined on A as follows: For persons
+p and q in A, we have p R q <=> p has the same birthday as q. Is R an equivalence relation?  If R is an equivalence relation, what are the equivalence classes of the relation?  
+
+A: R is an equiv. relation, as it is
+
+- reflective (p R p),
+  
+- symmetric p R q <==> q R p
+  
+- transititive p R q, q R r ==> p R r
+
+  equivalence classes is the set of the sets of  people of A that have the same birthday.
+
+  Set A has people: p001, p003, p005, p006, p007, then equiv. classes would be the set of
+  {p001, p003}, {p005, p006}, {p007}.
+  
+
+  
+  
