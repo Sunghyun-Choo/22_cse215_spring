@@ -1,0 +1,63 @@
+* Guideline
+
+  This homework covers lectures 01, 02, and 03. It is due at 11:59pm on Wednesday, March 02, 2022. 
+Be sure to include a comment at the top of each file submitted that gives your name and email address.
+Submit your solution files in PDF on Blackboard. Multiple submissions are allowed before the due date.
+
+Note: Please read the "Academic integrity" part of the syllabus before you start the homework. 
+
+
+* Exercise 1 (score = 10)
+Construct the truth table for the following statement forms:
+
+1. false \/ p 
+2. True /\ p
+
+   
+* Exercise 2 (score = 30)
+
+Write truth tables for the following statement  forms.
+
+1. p -> q
+2. ~p \/ q
+3. q -> p
+4. ~q \/ p
+5. ~q -> ~p
+6. ~p -> ~q             
+
+* Exercise 3   (score = 25)
+   
+Find at least five pairs of   statement forms above that are equivalent?
+
+
+
+* Exercise 4 (score = 10)
+   
+Let x be a particular integer. Use De Morgan’s laws to write negations for the following
+
+1. 0 < x < 10
+2. x < 2 or x > 5
+3. x <= 0 or x >=1 
+4. 0 > x >= −7
+
+
+
+* Exercise 5 (score = 15)
+For each  statement form below, use laws of logical equivalence to determine  if it is a tautology or contradiction. Explain which laws you are applying to  get your results. 
+
+1.  (∼p\/q)\/(p/\∼q)
+2. (p/\∼q)∧(∼p\/q)
+3. (p/\q)\/(∼p\/(p/\∼q))  
+
+
+* Exercise 6. (score = 10)
+
+  Check if the two statement forms below are logically equivalent and argue why
+
+-  p \/ q -> r
+- (p -> r) /\ (q ->r)
+
+
+  
+
+  
